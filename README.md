@@ -1,4 +1,4 @@
-# CURRICULUM VITAE
+# Hoja de vida
 
 ---
 
