@@ -1,6 +1,5 @@
 # Hoja de vida
-![Foto](C:\Users\Alan\Downloads\yo\alan.jpeg)
----
+<img src="alan.jpeg" alt="Foto" style="width:150px; height:150px; border-radius:50%;">
 
 ## DATOS PERSONALES
 
