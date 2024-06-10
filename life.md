@@ -15,14 +15,13 @@
 
 ## FORMACIÓN ACADÉMICA
 
-### MAESTRÍA EN INGENIERÍA WEB
-**Universidad Católica Boliviana**  
-*2022-Actual*
+### Título de Bachiller y Humanidades  
+**U.E Nacional Junin**  
+*2020*
 
 ### Ingeniería de Sistemas
 **Universidad Ucatec**  
-*2015-2020*
-
+*2021-2025*
 ---
 
 ## OTROS CURSOS Y SEMINARIOS
@@ -32,23 +31,18 @@
 | **Curso**                                  | **Institución**                                   | **Horas** | **Año** |
 |--------------------------------------------|--------------------------------------------------|-----------|---------|
 | Desarrollo Web Full Stack                  | Academia de Tecnología La Paz                    | 40h       | 2022    |
-| Introducción a la Inteligencia Artificial  | Centro de Estudios Tecnológicos de Cochabamba    | 30h       | 2021    |
-| Programación en Python para Data Science   | Universidad Católica Boliviana                   | 35h       | 2020    |
-| Seguridad Informática y Hacking Ético      | Instituto Boliviano de Tecnología                | 25h       | 2020    |
+| Introducción a la Inteligencia Artificial  | Centro de Estudios Tecnológicos de Cochabamba    | 30h       | 2023    |
+| Programación en Python para Data Science   | Universidad Católica Boliviana                   | 35h       | 2023    |
+| Seguridad Informática y Hacking Ético      | Instituto Boliviano de Tecnología                | 25h       | 2023    |
 
 ---
 
 ## EXPERIENCIA PROFESIONAL
 
-### TechSolutions S.A.
-**Desarrollador de Software**  
-*2021-2022*  
-- Realización de tareas de desarrollo y mantenimiento de aplicaciones web en el Dpto. de Desarrollo de Software.
-
-### Innovatech S.R.L.
+### Universidad Ucatec.
 **Desarrollador de Software (Prácticas)**  
-*2019-2020*  
-- Convenio en prácticas mediante el programa gestionado por el Centro de Iniciativas para el Empleo de la Universidad Ucatec, realizando tareas de desarrollo de software.
+*2023-2024*  
+- Programa gestionado por el Centro de Iniciativas para el desarollo de tesis para la Universidad Ucatec, realizando tareas de QA
 
 ---
 
@@ -62,12 +56,10 @@
 
 ### Conocimientos a nivel usuario
 - Microsoft Office: Word, Excel, Access, PowerPoint
-- Programa contable: Contaplus
 - Internet y redes sociales
 
 ### Lenguajes de Programación
 - Python
-- Java
 - HTML
 - CSS
 - JavaScript
@@ -77,7 +69,6 @@
 ## OTROS DATOS DE INTERÉS
 
 - Carné de conducir B-1 - Vehículo propio
-- Disponibilidad horaria y geográfica
 
 ---
 
