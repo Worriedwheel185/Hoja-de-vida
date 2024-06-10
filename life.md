@@ -5,7 +5,7 @@
 ## DATOS PERSONALES
 
 **Nombre y Apellidos:** Alan Colque Villanueva  
-**Lugar y fecha de nacimiento:** 23 de Agosto de 1997 - Cochabamba, Bolivia  
+**Lugar y fecha de nacimiento:** 23 de Agosto de 2000 - Cochabamba, Bolivia  
 **CI número:** 14198901 
 **Dirección:** C/ 5, urb san andreas Cochabamba, Bolivia  
 **Teléfono:** 75941576
