@@ -22,6 +22,7 @@
 ### Ingeniería de Sistemas
 **Universidad Ucatec**  
 *2021-2025*
+
 ---
 
 ## OTROS CURSOS Y SEMINARIOS
