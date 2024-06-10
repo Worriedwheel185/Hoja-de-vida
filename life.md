@@ -1,5 +1,5 @@
 
-![Foto](alan.jpeg)
+<img src="alan.jpeg" alt="Foto" style="width:150px; height:150px; border-radius:50%;">
 ---
 
 ## DATOS PERSONALES
