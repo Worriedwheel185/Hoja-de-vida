@@ -1,5 +1,5 @@
-# Hoja de vida
-![Foto](Calan.jpeg)
+
+![Foto](alan.jpeg)
 ---
 
 ## DATOS PERSONALES
