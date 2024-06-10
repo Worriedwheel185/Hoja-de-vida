@@ -1,5 +1,5 @@
 # Hoja de vida
-![Foto](C:\Users\Alan\Downloads\yo\alan.jpeg)
+![Foto](Calan.jpeg)
 ---
 
 ## DATOS PERSONALES
